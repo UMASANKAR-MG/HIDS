@@ -1,0 +1,3 @@
+pyshark
+psutil
+win32evtlog
